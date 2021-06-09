@@ -1,6 +1,6 @@
 Płace:
 personel stały: 70 000
-zlecenia: 17 000
+zlecenia: 50 000
 zus: 8 000
 fundusz rozrywkowy: 3 000
 
