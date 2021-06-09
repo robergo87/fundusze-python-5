@@ -1,7 +1,7 @@
 Płace:
 personel stały: 70 000
 zlecenia: 44 000
-zus: 8 000
+zus: 16 000
 fundusz rozrywkowy: 3 000
 
 Koszty lotne:
