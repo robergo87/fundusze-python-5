@@ -1,11 +1,11 @@
 Płace:
 personel stały: 70 000
-zlecenia: 17 000
+zlecenia: 14 000
 zus: 8 000
 fundusz rozrywkowy: 3 000
 
 Koszty lotne:
 personel dodatkowy: 30 000
-zlecenia dodatkowe: 3 000
+zlecenia dodatkowe: 6 000
 zus od personelu dodatkowego: 7 000
 fundusz rozrywkowy dodatkowy 2 000
