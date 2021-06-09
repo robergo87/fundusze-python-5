@@ -1,0 +1,6 @@
+Płace:
+personel: 100 000
+zlecenia: 20 000
+zus: 15 000
+fundusz socjalny: 5 000
+
